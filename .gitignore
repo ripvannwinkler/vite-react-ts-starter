@@ -1,0 +1,18 @@
+# Logs
+logs
+*.log*
+
+# node stuff
+node_modules
+dist-ssr
+dist
+
+# vscode
+.vscode/*
+!.vscode/extensions.json
+
+# jetbrains
+.idea
+
+# misc
+.DS_Store
