@@ -4049,9 +4049,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vite-react-ts@workspace:.":
+"vite-react-ts-starter@workspace:.":
   version: 0.0.0-use.local
-  resolution: "vite-react-ts@workspace:."
+  resolution: "vite-react-ts-starter@workspace:."
   dependencies:
     "@types/eslint": "npm:^8"
     "@types/react": "npm:^18"

@@ -3,6 +3,7 @@ logs
 *.log*
 
 # node stuff
+.yarn/
 node_modules
 dist-ssr
 dist
